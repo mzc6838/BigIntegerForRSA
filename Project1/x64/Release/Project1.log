@@ -1,0 +1,12 @@
+﻿  BigInteger.cpp
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(76): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(171): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(233): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(267): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(282): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(333): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(376): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(436): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\mzc6838\desktop\project1\bigintegerforrsa\project1\biginteger.cpp(475): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  RSA.cpp
+  Project1.vcxproj -> C:\Users\mzc6838\Desktop\Project1\BigIntegerForRSA\x64\Release\RSA.lib

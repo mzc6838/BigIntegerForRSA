@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BigInteger.cpp
+c:\users\6838\desktop\project1\project1\biginteger.cpp(76): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(171): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(233): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(267): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(282): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(333): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(376): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(436): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(475): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\6838\desktop\project1\project1\biginteger.cpp(641): warning C4800: “BigIntegerForRsa::base_t”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+  正在编译...
+  RSA.cpp
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\6838\Desktop\Project1\x64\Debug\RSA.lib
